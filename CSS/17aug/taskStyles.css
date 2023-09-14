@@ -1,0 +1,32 @@
+.parent{
+    display: flex;
+    gap:2rem;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.child{
+    height: 25rem;
+    width: 20rem;
+    background-color: antiquewhite;
+}
+.img:hover{
+ opacity: 0.5;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+.image-class{
+    margin-bottom: 70px;
+}
+
+.button:hover{
+background-color: rebeccapurple ;
+}

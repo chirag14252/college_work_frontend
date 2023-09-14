@@ -1,0 +1,20 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+    background-color: antiquewhite;
+   
+}
+.nav-item{
+    display: flex;
+
+    gap:20px;
+}
+body{
+    margin: 0;
+}
+.image{
+    border-radius: 100px;
+}
+
+
